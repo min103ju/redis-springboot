@@ -1,0 +1,13 @@
+# Log settings
+logging:
+  level:
+    root: debug
+
+# Redis Settings
+spring:
+  redis:
+    host:
+    port:
+    database:
+    password:
+    timeout:
